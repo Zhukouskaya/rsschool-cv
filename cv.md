@@ -54,3 +54,25 @@ https://zhukouskaya.github.io/Burger/
 ## Experience
 No commercial experience
 
+## Education
+
+- **Belarus State Economic University**
+    - Master of Law (2012-2018)
+- **SkillUp**
+    - Basic WEB and SQL for Software Testing (2020)
+- **Stormnet** 
+    - WED development on HTML and CSS, JavaScript (2021)
+- **FreeCodeCamp**
+    - Basic JavaScript (2021)
+    - JavaScript Algorithms and Data Structures (in process)
+- **RS School** 
+    - JS/FRONT-END (in process)
+
+## Languages
+
+- **English**
+    - Pre-Intermediate (A2+)
+- **Russian** 
+    - Native
+- **Belarusian** 
+    - Native
