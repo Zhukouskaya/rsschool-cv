@@ -1,0 +1,32 @@
+header {
+  background-color: var(--nav-bg-dark);
+  position: sticky;
+  top: 0;
+}
+
+.nav {
+  padding: 15px 0;
+}
+
+.nav a {
+  color: var(--text-light); 
+}
+
+.nav__list {
+  font-weight: 400;
+  display: flex;
+  justify-content: space-around;
+  font-size: 16px;
+}
+
+.nav__item a:hover {
+  color:var(--text-light-hover);
+  text-decoration: underline;
+  transition: .3s;
+}
+
+@media (max-width: 670px) {
+  header {
+    display: none;
+  }
+}
