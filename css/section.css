@@ -35,9 +35,31 @@ h2 {
   padding: 5px 20px;
 }
 
+.description_bold ul {
+  font-weight: 400;
+  padding-left: 10px;
+}
+
+.description_bold span{
+  opacity: 0.3;
+  font-size: 14px;
+  padding-left: 10px;
+}
+
 .description {
   font-weight: 400;
   padding: 0 10px;
+}
+
+.CV a {
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: underline;
+} 
+
+li p {
+  font-weight: 400;
+  padding: 5px 0 0 10px;
 }
 
 .description a {
@@ -57,6 +79,20 @@ h2 {
 .none {
   display: none;
 }
+
+.location {
+  padding-top: 15px;
+}
+
+.location span{
+  font-weight: 700;
+  padding-top: 15px;
+}
+
+/* header,
+footer {
+  display: none;
+} */
 
 @media (max-width: 850px) {
   .title {

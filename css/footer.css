@@ -9,8 +9,15 @@ footer {
   padding: 15px 0;
 }
 
-.footer_content {
+.footer_content a {
   color:var(--text-light);
+  font-size: 23px;
+}
+
+.footer_content a:hover {
+  color:var(--text-light-hover);
+  text-decoration: underline;
+  transition: .3s;
 }
 
 .footer_content_github {
