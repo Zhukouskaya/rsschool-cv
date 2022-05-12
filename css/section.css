@@ -51,11 +51,9 @@ h2 {
   padding: 0 10px;
 }
 
-.CV a {
-  font-weight: 700;
-  font-size: 18px;
-  text-decoration: underline;
-} 
+footer {
+  height: 25px;
+}
 
 li p {
   font-weight: 400;
@@ -89,11 +87,6 @@ li p {
   padding-top: 15px;
 }
 
-/* header,
-footer {
-  display: none;
-} */
-
 @media (max-width: 850px) {
   .title {
     padding: 30px 20px;
@@ -126,14 +119,14 @@ footer {
 } 
 
 @media (max-width: 430px) {
- pre  {
-   font-size: 10px;
- }
+  pre  {
+    font-size: 10px;
+  }
 } 
 
 @media (max-width: 330px) {
   pre  {
     font-size: 8px;
   }
- } 
+} 
 
