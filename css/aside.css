@@ -56,6 +56,12 @@ font-weight: 700;
   }
 }
 
+@media (max-width: 699px) {
+  aside {
+    padding: 0;
+  }
+}
+
 @media (max-width: 670px) {
   aside {
     width: 100%;
