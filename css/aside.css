@@ -24,6 +24,11 @@ aside {
   text-align: center;
 }
 
+.aside__contact_list,
+.aside__language_list {
+  padding-left: 20px;
+}
+
 .aside__contact_list li {
 font-weight: 700;
 }

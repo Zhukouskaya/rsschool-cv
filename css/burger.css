@@ -38,7 +38,7 @@
 
   .burger.active_burg { 
     transform: rotate(90deg); 
-    transition: 0.3s ease-in-out 0s; 
+    transition: 0.3s ease 0s; 
   }
 
   .nav { 
@@ -47,14 +47,15 @@
     right: -100%; 
     width: 320px; 
     height: 100%; 
-    background-color: #292929; 
+    background-color: var(--nav-bg-dark);
     transition: right 0.3s ease-in-out 0s; 
     overflow: auto; 
     transform: translate(100%, 0px); 
   }
 
   .nav.active_burg { 
+    padding: 70px 0;
     right: 320px; 
-    display: block; 
+    visibility: visible;
   }
 }

@@ -4,7 +4,6 @@ const menuLinks = document.querySelectorAll('.nav__item');
 const fone = document.querySelector('.fone');
 const header = document.querySelector('header');
 
-
 const toggleMenu = function() { 
   document.body.classList.toggle('_lock');
   iconMenu.classList.toggle('active_burg');
